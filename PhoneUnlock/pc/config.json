@@ -1,0 +1,5 @@
+{
+  "secret": "CHANGE_ME_secret",
+  "password": "CHANGE_ME_your_windows_pin_or_password",
+  "port": 8765
+}
